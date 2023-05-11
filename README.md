@@ -1,6 +1,6 @@
-#Magic-Injector for Games
+# Magic-Injector for Games
 ___
-#Supported Games:
+# Supported Games:
 
 
 ![Download](https://cdn3.emoji.gg/emojis/6704_CsGo.png)
